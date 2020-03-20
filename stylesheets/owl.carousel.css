@@ -264,7 +264,7 @@
 }
 
 .owl-theme .owl-controls .owl-nav div:hover {
-  border: 1px solid #ffbf43;
+  border: 1px solid #a0a4a7;
 }
 
 .owl-theme .owl-controls .owl-nav div.owl-prev {
@@ -290,7 +290,7 @@
 
 .owl-theme .owl-controls .owl-nav div.owl-prev:hover:before,
 .owl-theme .owl-controls .owl-nav div.owl-next:hover:before {    
-    color: #ffbf43;
+    color: #a0a4a7;
 }
 
 .owl-theme .owl-controls .owl-nav div.owl-next {
